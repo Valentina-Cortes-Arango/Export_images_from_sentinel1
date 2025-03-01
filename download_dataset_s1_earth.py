@@ -1,4 +1,14 @@
 """
+Authors: 
+- Valentina Cortes Arango
+- Jean Pierre Diaz-Paz
+- Ruben Dario Vasquez Salazar
+- Juan Andres Jaramillo Pineda 
+- Ahmed Alejandro Cardona Mesa
+
+Date: March 2025
+License: GPL-3.0
+
 This script retrieves and exports SAR images from Google Earth Engine (GEE) 
 using random coordinates and a predefined validation process.
 

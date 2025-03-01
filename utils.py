@@ -1,3 +1,34 @@
+"""
+Utility functions for SAR image retrieval, validation, and export.
+
+Authors: 
+- Valentina Cortes Arango
+- Jean Pierre Diaz-Paz
+- Ruben Dario Vasquez Salazar
+- Juan Andres Jaramillo Pineda 
+- Ahmed Alejandro Cardona Mesa
+
+Date: March 2025
+License: GPL-3.0
+
+This module provides functions to:
+1. Get SAR images (first, mean, and median) for a given location and time range.
+2. Validate SAR image collections to ensure they meet quality criteria.
+3. Generate random coordinates and retrieve SAR images for them.
+4. Monitor and export SAR images to Google Drive.
+
+Functions:
+- get_sar_first_mean_median_collection(): Get SAR images for a specific location.
+- validate_image(): Checks if an image collection meets the requirements.
+- get_random_collections(): Generates random coordinates and retrieves SAR data.
+- monitoring_task(): Monitors the status of an Earth Engine export task.
+- export_image(): Exports SAR images to Google Drive.
+
+Requirements:
+- Google Earth Engine authentication.
+- The main script should call these functions as needed.
+"""
+
 import ee 
 import time
 import random
