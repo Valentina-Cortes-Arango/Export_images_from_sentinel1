@@ -1,10 +1,13 @@
 """
 Authors: 
-- Valentina Cortes Arango
-- Jean Pierre Diaz-Paz
-- Ruben Dario Vasquez Salazar
-- Juan Andres Jaramillo Pineda 
-- Ahmed Alejandro Cardona Mesa
+- Valentina Cortes-Arango
+- Jean Pierre Díaz-Paz
+- Rubén Darío Vásquez-Salazar
+- Juan Andrés Jaramillo-Pineda 
+- Carlos M. Travieso-Gonzalez
+- Luis Gómez
+- Ahmed Alejandro Cardona-Mesa
+
 
 Date: March 2025
 License: GPL-3.0

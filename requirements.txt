@@ -1,0 +1,5 @@
+#Python version 
+python_version >= 3.8
+
+# Google Earth Engine API for working with satellite images
+earthengine-api==1.5.2
