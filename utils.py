@@ -2,13 +2,13 @@
 Utility functions for SAR image retrieval, validation, and export.
 
 Authors: 
+- Rubén Darío Vásquez-Salazar
+- Ahmed Alejandro Cardona-Mesa
+- Juan Andrés Jaramillo-Pineda 
 - Valentina Cortes-Arango
 - Jean Pierre Díaz-Paz
-- Rubén Darío Vásquez-Salazar
-- Juan Andrés Jaramillo-Pineda 
 - Carlos M. Travieso-Gonzalez
 - Luis Gómez
-- Ahmed Alejandro Cardona-Mesa
 
 Date: March 2025
 License: GPL-3.0
